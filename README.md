@@ -2,7 +2,9 @@
 
 This project is part of The Odin Project curriculum.
 
-Skills demonstrated:
-- Basic HTML
-- Git workflow
-- Repository setup
+In this project I demonstrated:
+- Basic HTML structure
+- Creating multiple pages
+- Linking pages together
+- Using images and lists
+- Git and GitHub workflow
